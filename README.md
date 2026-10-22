@@ -18,7 +18,7 @@ Open `script.js` and edit the `hairstyleExamples` list near the top. Each style 
 
 ## Update business details
 
-Edit the phone number and WhatsApp link in `index.html` and `script.js` if they change. The address, opening times, email and social link are intentionally marked as placeholders until the salon confirms them. Replace those placeholders in `index.html` when the details are available.
+Edit the phone number and WhatsApp link in `index.html` and `script.js` if they change. The opening times, email and social link are still placeholders until the salon confirms them; update those details in `index.html` when available.
 
 ## Publish with GitHub Pages
 

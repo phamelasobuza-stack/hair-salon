@@ -1,4 +1,4 @@
-const whatsappUrl = "https://wa.me/27725679877?text=Hello%20Perm%27s%20Hair%20Salon!%20I%20would%20like%20to%20book%20a%20hairstyle.%20Please%20let%20me%20know%20your%20available%20dates%20and%20prices.";
+const whatsappUrl = "https://wa.me/27762443538?text=Hello%20Perm%27s%20Hair%20Salon!%20I%20would%20like%20to%20book%20a%20hairstyle.%20Please%20let%20me%20know%20your%20available%20dates%20and%20prices.";
 
 const hairstyleExamples = [
   {
